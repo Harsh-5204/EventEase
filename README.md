@@ -27,8 +27,8 @@ EventEase is a simple and responsive frontend event booking web application buil
 > Note: `node_modules` is not included in the repository. Please run `npm install` before starting the project.
 
 ### Steps
-git clone https://github.com/Harsh-5204/EventEase.git  # Clone the repository
-cd eventease
-npm install  # Install the dependencies
-npm start  # Run this command to start the development server
+- git clone https://github.com/Harsh-5204/EventEase.git  # Clone the repository
+- cd eventease
+- npm install  # Install the dependencies
+- npm start  # Run this command to start the development server
 
