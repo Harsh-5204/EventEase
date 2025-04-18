@@ -11,7 +11,7 @@ export default function Eventdetailpage() {
   if (!event) {
     return (
       <div className="container mt-5">
-        <div className="alert alert-danger text-center">
+        <div className="alert alert-danger text-centger">
           Event not found
         </div>
       </div>
